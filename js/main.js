@@ -110,5 +110,6 @@
 			]
 
 		});
+		$('.slide-show').height($(window).height());
 	});
 })();
